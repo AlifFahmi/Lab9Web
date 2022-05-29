@@ -79,6 +79,7 @@ Buat file dengan nama `style.css` untuk mengatur tampilan web
 
 ![ss 1](img/ss2-13.PNG)
 
+
 ![ss 1](img/ss2-14.PNG)
 
 ### Tampilan index.php
